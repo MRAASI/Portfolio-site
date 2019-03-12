@@ -107,7 +107,7 @@ CSS Formatting Rules
 * Code always use a single space between the last selector and the opening brace that begins the declaration block.
 * Code always start a new line for each selector and declaration.
 * Code always put a blank line (two line breaks) between rules.
-* [Optional] Code uses double quotation marks for attribute selectors or property values. Do not use quotation marks in URI values (url()).
+* [Optional] Code uses double quotation marks for attribute selectors or property values. Do not use quotation marks in URI values (url())..
 
 CSS Style Rules
 	
