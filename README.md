@@ -23,7 +23,7 @@ Provide at least one of the following customizations:
 
 * Customize images and text.
 * Customize placement of the elements on the page (grid layout) with HTML, CSS or both.
-* Customize CSS styles applied at minimum to paragraph and heading elements.
+* Customize CSS styles applied at minimum to paragraph and heading elements..
 
 #### Grid-Based Layout
 	
